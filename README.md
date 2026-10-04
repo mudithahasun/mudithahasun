@@ -18,8 +18,8 @@ Applied R&D in embedded electronics, training simulators, motion platforms, digi
 
 ## 🚀 Projects
 **Research**
-- **PhD: TinyML fault detection for rotary machines.** Vibration time-series pipeline from feature extraction and model development through robustness evaluation, quantization and deployment on real MCU hardware, including few-shot and zero-shot approaches.
-- **MSc: Human motion detection with passive infrared (PIR) sensors using TinyML.** RNN-based direction/motion classification with quantized inference on the Arduino Nano 33 BLE Sense.
+- **[PhD: TinyML fault detection for rotary machines](https://github.com/mudithahasun/tinyml-rotary-fault-detection).** Vibration time-series pipeline from feature extraction and model development through robustness evaluation, quantization and deployment on real MCU hardware, including few-shot and zero-shot approaches.
+- **[MSc: Human motion detection with passive infrared (PIR) sensors using TinyML](https://github.com/mudithahasun/PIR).** RNN-based direction/motion classification with quantized inference on the Arduino Nano 33 BLE Sense.
 
 **Professional (CDRD)**
 - **Training simulators.** Embedded electronics, control software and real-time simulation interfacing for vehicle, weapon-training and tactical simulators.
@@ -27,10 +27,10 @@ Applied R&D in embedded electronics, training simulators, motion platforms, digi
 - **Communication systems.** Wired intercom system; contributor to CREEPER, a locally developed hand-held digital mobile radio (DMR).
 
 **Undergraduate and academic**
-- **Domestic power monitoring system (IoT).** BSc final-year project; later published as a web-based smart power extension device.
-- **Micromouse maze-solving robot.** ROBOFEST 2018.
-- **Solar tracker.** Embedded Systems Engineering coursework.
-- **Wall-following robot.** Mechatronic Systems Engineering coursework.
+- **[Domestic power monitoring system (IoT)](https://github.com/mudithahasun/iot-power-monitor).** BSc final-year project; later published as a web-based smart power extension device.
+- **[Micromouse maze-solving robot](https://github.com/mudithahasun/micromouse-maze-solver).** ROBOFEST 2018.
+- **[Solar tracker](https://github.com/mudithahasun/solar-tracker).** Embedded Systems Engineering coursework.
+- **[Wall-following robot](https://github.com/mudithahasun/wall-following-robot).** Mechatronic Systems Engineering coursework.
 
 ## 🎓 Teaching
 - Visiting Lecturer, Robotics & AI: SCOT Campus (2026 – present)
