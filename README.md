@@ -16,6 +16,22 @@ Topics: vibration-based condition monitoring · time-series ML · few-shot and z
 **Research Officer, Centre for Defence Research and Development (CDRD), Ministry of Defence, Sri Lanka** (2020 – present)  
 Applied R&D in embedded electronics, training simulators, motion platforms, digital communication systems and real-time simulation.
 
+## 🚀 Projects
+**Research**
+- **PhD: TinyML fault detection for rotary machines.** Vibration time-series pipeline from feature extraction and model development through robustness evaluation, quantization and deployment on real MCU hardware, including few-shot and zero-shot approaches.
+- **MSc: Human motion detection with passive infrared (PIR) sensors using TinyML.** RNN-based direction/motion classification with quantized inference on the Arduino Nano 33 BLE Sense.
+
+**Professional (CDRD)**
+- **Training simulators.** Embedded electronics, control software and real-time simulation interfacing for vehicle, weapon-training and tactical simulators.
+- **Motion platforms.** 3-DOF platform for a light vehicle simulator and a 6-DOF platform: actuator control, kinematics and mechatronic integration.
+- **Communication systems.** Wired intercom system; contributor to CREEPER, a locally developed hand-held digital mobile radio (DMR).
+
+**Undergraduate and academic**
+- **Domestic power monitoring system (IoT).** BSc final-year project; later published as a web-based smart power extension device.
+- **Micromouse maze-solving robot.** ROBOFEST 2018.
+- **Solar tracker.** Embedded Systems Engineering coursework.
+- **Wall-following robot.** Mechatronic Systems Engineering coursework.
+
 ## 🎓 Teaching
 - Visiting Lecturer, Robotics & AI: SCOT Campus (2026 – present)
 - Visiting Lecturer, Fluid Dynamics & Programming: British Institute of Engineering & Technology (2025 – present)
@@ -38,6 +54,7 @@ Applied R&D in embedded electronics, training simulators, motion platforms, digi
 ## 📄 Selected Publications
 - *CREEPER: The First Indigenously Developed Hand-held Digital Mobile Radio (DMR) in Sri Lanka*, KDU International Research Conference, 2022
 - *BTR-80A Armoured Personnel Carrier Simulator: A State of the Art Solution to Train BTR Crews*, Sri Lanka Military Academy Journal, Vol. 4, 2022
+- *Feasible Motion Platform for a BTR-80A Armoured Personnel Carrier Simulator*, 2022
 - *Development of a Web-Based Smart Power Extension Device for Domestic Applications*, University of Moratuwa, 2021
 
 ## 🎓 Education
